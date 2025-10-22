@@ -33,11 +33,11 @@
 
       const providers = zebar.createProviderGroup({
         glazewm: { type: 'glazewm' },
-        cpu: { type: 'cpu' },
+        cpu: { type: 'cpu', refreshInterval: 1000 },
         date: { type: 'date', formatting: 'EEE M/d/yyyy' },
         time: { type: 'date', formatting: 'h:mm:ss a' },
         battery: { type: 'battery' },
-        memory: { type: 'memory' },
+        memory: { type: 'memory', refreshInterval: 1000 },
         audio: { type: 'audio' },
         weather: { type: 'weather' },
         media: { type: 'media' },
