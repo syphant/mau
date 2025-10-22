@@ -40,7 +40,7 @@ After installing [glazewm](https://github.com/glzr-io/glazewm) and [zebar](https
 ```
 git clone https://github.com/syphant/mau.git C:\Users\$env:username\.glzr\zebar\mau
 ``` 
-Alternatively, download the zip file in [releases](https://github.com/syphant/mau/releases) and extract the contents to `C:\Users\$USER\.glzr\zebar\mau`
+Alternatively, download the zip file in [releases](https://github.com/syphant/mau/releases) and extract the contents to `C:\Users\$USER\.glzr\zebar`
 
 Then:
 1. In zebar's context menu, choose `Empty cache & reload configs`, or alternatively just kill and relaunch zebar
