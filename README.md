@@ -28,7 +28,6 @@
   - `<artist-name> – <song-title>`
 - Workspace indicator/selector
 - System tray with monochrome interactive icons
-  - ⚠️ Left click / double left-click is **borked**, right-click works fine (oops)
 - Local weather conditions and temperature
   - Hover to show tooltip with current weather conditions
   - Click to toggle between °F/°C (defaults to °F)
